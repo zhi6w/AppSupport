@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D906D6B2213E69C300845816 /* Shorthand(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D906D6B1213E69C300845816 /* Shorthand(en).md */; };
+		D906D6B4213E69D300845816 /* Shorthand(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D906D6B3213E69D300845816 /* Shorthand(zh-Hans).md */; };
 		D991682F2100BB1400303DC3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D991682E2100BB1400303DC3 /* AppDelegate.swift */; };
 		D99168312100BB1400303DC3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99168302100BB1400303DC3 /* ViewController.swift */; };
 		D99168342100BB1400303DC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D99168322100BB1400303DC3 /* Main.storyboard */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D906D6B1213E69C300845816 /* Shorthand(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(en).md"; sourceTree = "<group>"; };
+		D906D6B3213E69D300845816 /* Shorthand(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(zh-Hans).md"; sourceTree = "<group>"; };
 		D991682B2100BB1400303DC3 /* App Support.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "App Support.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D991682E2100BB1400303DC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D99168302100BB1400303DC3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +71,8 @@
 				D99168432100BB4A00303DC3 /* Regularly(en).md */,
 				D99168452100BB5800303DC3 /* Begins(zh-Hans).md */,
 				D99168472100BB6100303DC3 /* Begins(en).md */,
+				D906D6B1213E69C300845816 /* Shorthand(en).md */,
+				D906D6B3213E69D300845816 /* Shorthand(zh-Hans).md */,
 			);
 			path = "App Support";
 			sourceTree = "<group>";
@@ -144,10 +150,12 @@
 			files = (
 				D99168482100BB6100303DC3 /* Begins(en).md in Resources */,
 				D99168392100BB1500303DC3 /* LaunchScreen.storyboard in Resources */,
+				D906D6B4213E69D300845816 /* Shorthand(zh-Hans).md in Resources */,
 				D99168442100BB4A00303DC3 /* Regularly(en).md in Resources */,
 				D99168422100BB4000303DC3 /* Regularly(zh-Hans).md in Resources */,
 				D99168362100BB1500303DC3 /* Assets.xcassets in Resources */,
 				D99168342100BB1400303DC3 /* Main.storyboard in Resources */,
+				D906D6B2213E69C300845816 /* Shorthand(en).md in Resources */,
 				D99168462100BB5800303DC3 /* Begins(zh-Hans).md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
