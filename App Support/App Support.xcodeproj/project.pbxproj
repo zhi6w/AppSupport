@@ -14,13 +14,13 @@
 		D99168342100BB1400303DC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D99168322100BB1400303DC3 /* Main.storyboard */; };
 		D99168362100BB1500303DC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D99168352100BB1500303DC3 /* Assets.xcassets */; };
 		D99168392100BB1500303DC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D99168372100BB1500303DC3 /* LaunchScreen.storyboard */; };
-		D99168422100BB4000303DC3 /* Regularly(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D99168412100BB4000303DC3 /* Regularly(zh-Hans).md */; };
-		D99168442100BB4A00303DC3 /* Regularly(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D99168432100BB4A00303DC3 /* Regularly(en).md */; };
+		D99168422100BB4000303DC3 /* Regular(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D99168412100BB4000303DC3 /* Regular(zh-Hans).md */; };
+		D99168442100BB4A00303DC3 /* Regular(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D99168432100BB4A00303DC3 /* Regular(en).md */; };
 		D99168462100BB5800303DC3 /* Begins(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D99168452100BB5800303DC3 /* Begins(zh-Hans).md */; };
 		D99168482100BB6100303DC3 /* Begins(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D99168472100BB6100303DC3 /* Begins(en).md */; };
 		D9ABF5E02141636600678210 /* Shorthand(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9ABF5DF2141636600678210 /* Shorthand(zh-Hant).md */; };
 		D9E8110A214A9A9400362E48 /* Begins(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9E81109214A9A9400362E48 /* Begins(zh-Hant).md */; };
-		D9E8110C214A9AB700362E48 /* Regularly(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9E8110B214A9AB700362E48 /* Regularly(zh-Hant).md */; };
+		D9E8110C214A9AB700362E48 /* Regular(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9E8110B214A9AB700362E48 /* Regular(zh-Hant).md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,13 +33,13 @@
 		D99168352100BB1500303DC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D99168382100BB1500303DC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D991683A2100BB1500303DC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D99168412100BB4000303DC3 /* Regularly(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(zh-Hans).md"; sourceTree = "<group>"; };
-		D99168432100BB4A00303DC3 /* Regularly(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(en).md"; sourceTree = "<group>"; };
+		D99168412100BB4000303DC3 /* Regular(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regular(zh-Hans).md"; sourceTree = "<group>"; };
+		D99168432100BB4A00303DC3 /* Regular(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regular(en).md"; sourceTree = "<group>"; };
 		D99168452100BB5800303DC3 /* Begins(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hans).md"; sourceTree = "<group>"; };
 		D99168472100BB6100303DC3 /* Begins(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(en).md"; sourceTree = "<group>"; };
 		D9ABF5DF2141636600678210 /* Shorthand(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(zh-Hant).md"; sourceTree = "<group>"; };
 		D9E81109214A9A9400362E48 /* Begins(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hant).md"; sourceTree = "<group>"; };
-		D9E8110B214A9AB700362E48 /* Regularly(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(zh-Hant).md"; sourceTree = "<group>"; };
+		D9E8110B214A9AB700362E48 /* Regular(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regular(zh-Hant).md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,9 +72,9 @@
 		D991682D2100BB1400303DC3 /* App Support */ = {
 			isa = PBXGroup;
 			children = (
-				D99168432100BB4A00303DC3 /* Regularly(en).md */,
-				D99168412100BB4000303DC3 /* Regularly(zh-Hans).md */,
-				D9E8110B214A9AB700362E48 /* Regularly(zh-Hant).md */,
+				D99168432100BB4A00303DC3 /* Regular(en).md */,
+				D99168412100BB4000303DC3 /* Regular(zh-Hans).md */,
+				D9E8110B214A9AB700362E48 /* Regular(zh-Hant).md */,
 				D99168472100BB6100303DC3 /* Begins(en).md */,
 				D99168452100BB5800303DC3 /* Begins(zh-Hans).md */,
 				D9E81109214A9A9400362E48 /* Begins(zh-Hant).md */,
@@ -161,9 +161,9 @@
 				D9E8110A214A9A9400362E48 /* Begins(zh-Hant).md in Resources */,
 				D99168392100BB1500303DC3 /* LaunchScreen.storyboard in Resources */,
 				D906D6B4213E69D300845816 /* Shorthand(zh-Hans).md in Resources */,
-				D99168442100BB4A00303DC3 /* Regularly(en).md in Resources */,
-				D99168422100BB4000303DC3 /* Regularly(zh-Hans).md in Resources */,
-				D9E8110C214A9AB700362E48 /* Regularly(zh-Hant).md in Resources */,
+				D99168442100BB4A00303DC3 /* Regular(en).md in Resources */,
+				D99168422100BB4000303DC3 /* Regular(zh-Hans).md in Resources */,
+				D9E8110C214A9AB700362E48 /* Regular(zh-Hant).md in Resources */,
 				D99168362100BB1500303DC3 /* Assets.xcassets in Resources */,
 				D99168342100BB1400303DC3 /* Main.storyboard in Resources */,
 				D906D6B2213E69C300845816 /* Shorthand(en).md in Resources */,
